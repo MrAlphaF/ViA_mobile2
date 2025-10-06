@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dialog</string>
+    <string name="app_subname">Group 3 practical 2</string>
+    <string name="goToDialog">Go to dialog page</string>
+    <string name="goToMain">Go to main page</string>
+    <string name="dialog_title">Group 3 Dialog</string>
+    <string name="openDialog">Open dialog</string>
+</resources>
