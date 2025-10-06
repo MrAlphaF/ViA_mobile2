@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="students">
+        <item>Linda Brante</item>
+        <item>Arturs Silins</item>
+        <item>Janis Petrovs</item>
+    </array>
+</resources>
